@@ -1,4 +1,9 @@
-public class DeletePostCommand : BaseCommand
+using CQRS.Core.Commands;
+
+namespace Post.Cmd.Api.Commands
 {
-    public string Username { get; set; }
+    public class DeletePostCommand : BaseCommand
+    {
+        public string Username { get; set; }
+    }
 }

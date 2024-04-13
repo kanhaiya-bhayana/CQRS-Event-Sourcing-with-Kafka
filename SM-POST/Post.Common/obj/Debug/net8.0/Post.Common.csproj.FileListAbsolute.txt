@@ -1,0 +1,16 @@
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\Post.Common.csproj.AssemblyReference.cache
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\Post.Common.AssemblyInfoInputs.cache
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\Post.Common.AssemblyInfo.cs
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\Post.Common.csproj.CoreCompileInputs.cache
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\Post.Common.sourcelink.json
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\bin\Debug\net8.0\Post.Common.deps.json
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\bin\Debug\net8.0\Post.Common.dll
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\bin\Debug\net8.0\Post.Common.pdb
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\bin\Debug\net8.0\CQRS.Core.dll
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\bin\Debug\net8.0\CQRS.Core.pdb
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\Post.Com.894DB8FF.Up2Date
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\Post.Common.dll
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\refint\Post.Common.dll
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\Post.Common.pdb
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\SM-POST\Post.Common\obj\Debug\net8.0\ref\Post.Common.dll

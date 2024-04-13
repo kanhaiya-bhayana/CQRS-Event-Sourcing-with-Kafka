@@ -1,8 +1,12 @@
+using CQRS.Core.Commands;
 
-
-public class EditCommentCommand : BaseCommand
+namespace Post.Cmd.Api.Commands
 {
-    public Guid CommentId { get; set; }
-    public string Comment { get; set;}
-    public string UserName { get; set; }
+
+    public class EditCommentCommand : BaseCommand
+    {
+        public Guid CommentId { get; set; }
+        public string Comment { get; set; }
+        public string UserName { get; set; }
+    }
 }

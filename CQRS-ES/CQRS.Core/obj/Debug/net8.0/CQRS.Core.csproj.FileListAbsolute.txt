@@ -1,0 +1,13 @@
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.deps.json
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.dll
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.pdb
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.csproj.AssemblyReference.cache
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.AssemblyInfoInputs.cache
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.AssemblyInfo.cs
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.csproj.CoreCompileInputs.cache
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.sourcelink.json
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.dll
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\obj\Debug\net8.0\refint\CQRS.Core.dll
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.pdb
+D:\Kanhaiya\Leaning\ApacheKafkaCQRS\CQRS-ES\CQRS.Core\obj\Debug\net8.0\ref\CQRS.Core.dll

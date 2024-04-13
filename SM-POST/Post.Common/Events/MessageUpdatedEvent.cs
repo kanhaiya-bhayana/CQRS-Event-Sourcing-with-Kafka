@@ -1,11 +1,13 @@
+using CQRS.Core.Events;
 
-
-
-public class MessageUpdatedEvent : BaseEvent
+namespace Post.Common.Events
 {
-    public MessageUpdatedEvent() : base(nameof(MessageUpdatedEvent)) 
-    { 
+    public class MessageUpdatedEvent : BaseEvent
+    {
+        public MessageUpdatedEvent() : base(nameof(MessageUpdatedEvent))
+        {
 
+        }
+        public string Message { get; set; }
     }
-    public string Message { get; set;}
 }

@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\CQRS-ES",
-    "\\CQRS-ES\\CQRS.Core"
+    "\\CQRS-ES\\CQRS.Core",
+    "\\CQRS-ES\\CQRS.Core\\Commands"
   ],
-  "SelectedNode": "\\CQRS-ES\\CQRS.Core",
+  "SelectedNode": "\\CQRS-ES\\CQRS.Core\\Commands\\BaseCommand.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,10 +1,12 @@
+using CQRS.Core.Events;
 
-
-
-public class PostRemovedEvent : BaseEvent
+namespace Post.Common.Events
 {
-    public PostRemovedEvent() : base(nameof(PostRemovedEvent)) 
-    { 
+    public class PostRemovedEvent : BaseEvent
+    {
+        public PostRemovedEvent() : base(nameof(PostRemovedEvent))
+        {
 
+        }
     }
 }
